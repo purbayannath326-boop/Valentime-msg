@@ -17,7 +17,8 @@ yesBtn.addEventListener("click", () => {
       <h1>💖 Yay! You Said YES
       ! 💖</h1>
       <p>Happy Valentine’s Day ❤️</p>
-      <img src="https://media.giphy.com/media/3ohhwh6v" alt="Hearts ❤️">
+      <img src="https://giphy.com/gifs/myemotionalsupportanimal-love-cat-priceless-yjvfyJN1regrQLDxGl" alt="Hearts ❤️">
     </div>S0FJ9bXZmI/giphy.gif
   `;
+
 });
