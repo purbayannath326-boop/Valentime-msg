@@ -14,13 +14,15 @@ noBtn.addEventListener("mouseover", () => {
 yesBtn.addEventListener("click", () => {
   document.body.innerHTML = `
     <div class="container">
-      <h1>💖 Yay! You Said YES
-      ! 💖</h1>
-      <p>Happy Valentine’s Day ❤️</p>
-      <img src="https://giphy.com/gifs/myemotionalsupportanimal-love-cat-priceless-yjvfyJN1regrQLDxGl  ❤️">
+      <h1> Thankyou for choosing Yes 🙃
+      ! ❤️🌸🪷
+      Please don't mind I made it out of fun, by just using chat gpt, and deploying it myself, 😓</h1>
+      <p>Happy Valentine’s Day 😃🤍</p>
+      <img src> " https://giphy.com/gifs/myemotionalsupportanimal-love-cat-priceless-yjvfyJN1regrQLDxGl❤️"</img>
     </div>
   `;
 
 });
+
 
 
