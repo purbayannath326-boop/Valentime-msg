@@ -16,13 +16,14 @@ yesBtn.addEventListener("click", () => {
     <div class="container">
       <h1> Thankyou for choosing Yes 🙃
       ! ❤️🌸🪷
-      Please don't mind I made it out of fun, by just using chat gpt, and deploying it myself, 😓</h1>
-      <p>Happy Valentine’s Day 😃🤍</p>
-      <img src> " https://giphy.com/gifs/myemotionalsupportanimal-love-cat-priceless-yjvfyJN1regrQLDxGl❤️"</img>
-    </div>
+      Please don't mind I made it out of fun, by just using chat gpt, and deploying it myself, this page could be better 😓</h1>
+    <h2> <p>Happy Valentine’s Day 😃🤍</p> </h2>
+      
+      </div>
   `;
 
 });
+
 
 
 
