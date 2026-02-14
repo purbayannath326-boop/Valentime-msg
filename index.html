@@ -22,6 +22,38 @@
 </html>
 
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<button id="yesBtn">Yes</button>
+
+<div id="gifContainer"></div>
+
+<script>
+  const yesButton = document.getElementById("yesBtn");
+  const gifContainer = document.getElementById("gifContainer");
+
+  yesButton.addEventListener("click", function () {
+    // Condition: Only when Yes button is clicked
+    if (true) {  
+      const img = document.createElement("img");
+      img.src = "https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeHEwNmNxOXNocG1kZ2l5c2dpZHk5eGVvOGh6cXE2MTQ0OHlyM2pjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yjvfyJN1regrQLDxGl/giphy.gif";
+      img.width = 300;
+      img.alt = "Success GIF";
+
+      // Clear previous content (optional)
+      gifContainer.innerHTML = "";
+
+      // Show GIF
+      gifContainer.appendChild(img);
+    }
+  });
+</script>
+
+</body>
+</html>
+
 
 
 
